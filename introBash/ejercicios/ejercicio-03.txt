@@ -1,0 +1,4 @@
+Introduccion al scripting
+
+analizar el funcionamiento del script ej01.sh
+

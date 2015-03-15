@@ -1,0 +1,25 @@
+Uso de ls, pwd, cd, mkdir, rmdir, mv, cp, rm, >, >>, cat
+
+01- abrir una terminal y llegar a la carpeta ej01
+
+02- arreglar el nombre de la carpeta "ejemploç" 
+
+03- entrar en la carpeta ejemplo 
+
+04- copiar el archivo numeros.txt.old a numeros01.txt y numeros02.txt
+
+05- eliminar el archivo numeros.txt.old
+
+06- escribir en pantalla los archivos numeros.txt y algoDeTexto.txt
+
+07- crear un directorio con cualquier nombre y copiar algoDeTexto.txt a su interior
+
+08- escribir el directorio actual en un archivo workDir.txt
+
+09- concatenar 2 copias del archivo numeros01.txt en numeros03.txt. a partir del procedimiento anterior explorar la diferencia entre > y >> 
+
+10- salir de la carpeta ejemplo
+
+11- copiar la carpeta ejemplo con todo su contenido a ejemplo01
+
+12- eliminar carpeta ejemplo

@@ -1,0 +1,16 @@
+Uso de echo, head, tail, seq, less y grep
+
+01- hacer una copia de la carpeta ej01 llamada ej02
+
+02- entrar en ej02/ejemplo01
+
+03- crear un archivo con una linea de texto "hola mundo"
+
+04- crear un archivo con numeros del 1 al 50 llamado masNumeros.txt y explorarlo con less
+
+05- crear un archivo a partir de masNumeros.txt que contenga sus primeros y ultimos 10 numeros
+
+06- idem con los numeros que al menos tengan un 2
+
+07- idem con los numeros terminados en 2 
+
