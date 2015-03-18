@@ -43,13 +43,16 @@ history: escribe los ultimos 500 comandos en pantalla.
 
 Caracteres especiales:
 
+*: es un comodin. 
+ej- *.txt representa todos los archivos terminados en .txt
+
+\: le quita significado a caracteres especiales (los escapea). le agrega significado a caracteres comunes. 
+ej- \$ es el caracter $ - \n es un salto de linea - \\ es el caracter \.
+
 ': lo que encierra se toma literalmente y como un solo string
 ej- 'hola@$' es el string de caracteres hola@$
 
 ": idem ' pero es necesario escapear caracteres especiales
-
-\: le quita significado a caracteres especiales. le agrega significado a caracteres comunes. 
-ej- \$ es el caracter $ - \n es un salto de linea - \\ es el caracter \.
 
 |: pipe. Toma la salida del comando anterior y se la da de entrada al siguiente. 
 ej- "seq 1 1000 | head" escribe solo del 1 al 10
@@ -65,3 +68,6 @@ ej: hacer dos veces seq 1 3 >> pp.txt crea un archivo pp.txt con seis lineas: 1 
 
 Documentacion:
 http://www.gnu.org/software/bash/manual/bash.html
+
+Tutorial bien basico:
+http://steve-parker.org/sh/intro.shtml

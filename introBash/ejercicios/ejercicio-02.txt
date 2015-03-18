@@ -14,3 +14,5 @@ Uso de echo, head, tail, seq, less y grep
 
 07- idem con los numeros terminados en 2 
 
+08- explorar la diferencia entre > y >>
+

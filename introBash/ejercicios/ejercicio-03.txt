@@ -1,4 +1,11 @@
-Introduccion al scripting
+Introduccion al scripting + chmod
 
-analizar el funcionamiento del script ej01.sh
+01- dar permisos de ejecucion al script ej01.sh
 
+02- correr el script ej01.sh
+
+03- analizar el funcionamiento del script ej01.sh
+
+04- Idem para ej02.sh
+
+05- Idem para ej03.sh
